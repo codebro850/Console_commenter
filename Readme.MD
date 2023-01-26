@@ -2,9 +2,9 @@ This package helps developers to get rid of manually commenting cosole.log in fo
 
 To use this package
 
-npm install console_commenter
+```npm install console_commenter```
 
-npm run commentor <directory/> .<extension>
+```npm run commentor <directory/> .<extension>```
 
 Then relax and seat back, Let me handle your cosole.
 
