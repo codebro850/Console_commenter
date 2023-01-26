@@ -1,6 +1,6 @@
 {
-  "name": "console_commenter",
-  "version": "1.0.0",
+  "name": "console_commentor",
+  "version": "1.0.1",
   "description": "This will help you to comment all your console before going to production and rock.",
   "main": "index.js",
   "scripts": {
@@ -25,5 +25,9 @@
   "bugs": {
     "url": "https://github.com/codebro850/Console_commenter/issues"
   },
-  "homepage": "https://github.com/codebro850/Console_commenter#readme"
+  "homepage": "https://github.com/codebro850/Console_commenter#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
+
