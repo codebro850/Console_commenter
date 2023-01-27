@@ -1,14 +1,13 @@
 {
-  "name": "console_commentor",
+  "name": "console_comment",
   "version": "1.0.1",
   "description": "This will help you to comment all your console before going to production and rock.",
   "main": "index.js",
   "bin": {
-    "console_commentor": "./index.js"
+    "console_comment": "./index.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "commentor": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
