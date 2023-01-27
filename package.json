@@ -3,6 +3,9 @@
   "version": "1.0.2",
   "description": "This will help you to comment all your console before going to production and rock.",
   "main": "index.js",
+  "bin": {
+    "console_commentor": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "commentor": "node index.js"
@@ -23,8 +26,5 @@
   "bugs": {
     "url": "https://github.com/codebro850/Console_commenter/issues"
   },
-  "homepage": "https://github.com/codebro850/Console_commenter#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  }
+  "homepage": "https://github.com/codebro850/Console_commenter#readme"
 }
