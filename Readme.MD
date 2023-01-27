@@ -2,9 +2,12 @@ This package helps developers to get rid of manually commenting cosole.log in fi
 
 To use this package
 
-`npm install console_commenter`
+`npm install -g console_commenter`
 
-`npm run commentor <directory/> .<extension>`
+`console_commentor <directory/> .<extension>`
+
+example:
+`console_commentor "server/" .js`
 
 Then relax and seat back, Let me handle your cosole.
 
