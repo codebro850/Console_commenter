@@ -1,6 +1,6 @@
 {
   "name": "console_commentor",
-  "version": "1.0.3",
+  "version": "1.0.1",
   "description": "This will help you to comment all your console before going to production and rock.",
   "main": "index.js",
   "bin": {
