@@ -1,6 +1,6 @@
-This package helps developers to get rid of manually commenting cosole.log in files before going to production.
+This package helps developers to get rid of manually commenting console.log in files before going to production.
 
-To use this package
+**To use this package**
 
 `npm install -g console_comment`
 
@@ -9,6 +9,6 @@ To use this package
 example:
 `console_comment "server/" .js`
 
-Then relax and seat back, Let me handle your cosole.
+Then relax and seat back, Let me handle your console.
 
-Happy production :)
+Happy production ❤
