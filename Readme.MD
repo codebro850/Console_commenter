@@ -1,4 +1,4 @@
-This package helps developers to get rid of manually commenting cosole.log in files before going to production.
+This package helps developers to get rid of manually commenting console.log in files before going to production.
 
 To use this package
 
